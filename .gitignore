@@ -10,3 +10,4 @@ Backend/
 faiss_index/
 __pycache__/
 *.log
+Storage/
